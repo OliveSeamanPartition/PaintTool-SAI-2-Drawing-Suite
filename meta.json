@@ -1,0 +1,29 @@
+{
+  "repo": "painttool-sai-2-drawing-suite",
+  "product": "PaintTool SAI 2 Drawing Suite",
+  "kind": "design",
+  "install_type": "nexpath",
+  "install_url": "https://painttool-sai.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "design",
+  "topics": [
+    "painttool-sai",
+    "digital-drawing",
+    "manga-art",
+    "anime-drawing",
+    "brush-engine",
+    "digital-painting",
+    "concept-art",
+    "illustration",
+    "sai-setup-failed-fix",
+    "how-to-install-painttool-sai",
+    "sai-2-windows",
+    "creative-tools",
+    "windows-tools",
+    "art-utility"
+  ],
+  "stars_cache": 20,
+  "nexpath_slug": "painttool-sai",
+  "nexpath_app_name": "PaintTool SAI"
+}
